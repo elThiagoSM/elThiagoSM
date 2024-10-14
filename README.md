@@ -16,11 +16,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- Front-end developer and designer
+- I'm currently learning web development on my own
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Link to my personal website [link]([https://www.0xabdulkhalid.ml](https://elthiagosm.github.io/portafolio/))
+- I'm currently a computer science student
 
 <br><br>
 
