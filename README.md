@@ -35,7 +35,7 @@
 ## 🧰 Herramientas que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cursor,git,github,vscode,bash&perline=9" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=cursor,git,github,vscode,bash,vercel&perline=9" alt="Herramientas" />
 </p>
 
 > Trabajo principalmente con **Cursor** y **OpenCode** como editores, **Git/GitHub** para control de versiones, **Supabase** como backend, y **Photoshop/Figma** para diseño.
@@ -51,30 +51,15 @@
       <p>Mini empresa de desarrollo web en la que trabajo.</p>
     </td>
     <td width="33%">
-      <h3>🕒 <a href="https://github.com/elThiagoSM/Norkent">Norkent</a></h3>
+      <h3>🕒 <a href="https://norkent.com">Norkent</a></h3>
       <p>SaaS pensado para registrar la asistencia de empleados.</p>
-      <p><a href="https://norkent.com">🔗 norkent.com</a></p>
     </td>
     <td width="33%">
-      <h3>📚 <a href="https://github.com/elThiagoSM/publish-comics">PublishComics</a></h3>
+      <h3>📚 <a href="https://publishcomics.online">PublishComics</a></h3>
       <p>Plataforma para que cualquiera pueda compartir sus cómics de forma gratuita.</p>
-      <p><a href="https://publishcomics.online">🔗 publishcomics.online</a></p>
     </td>
   </tr>
 </table>
-
-<br>
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elThiagoSM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elThiagoSM&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elThiagoSM&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
 
 <br>
 
