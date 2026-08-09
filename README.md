@@ -19,11 +19,9 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiando la carrera de **Ingeniería en Computación** en la **Udelar** (Uruguay).
-- 📍 De **Salto, Uruguay**.
-- 🌱 No me defino por una sola tecnología o rol: me gusta **aprender de todo** y volverme experto en lo que capta mi atención.
+- 🌱 Soy raro: me gusta **aprender de todo** y volverme un experto en eso.
 - 💼 Formo parte de **[pya.uy](https://pya.uy)**, una pequeña empresa de desarrollo web.
 - 🚀 Tengo un par de proyectos personales activos que combinan desarrollo web y SaaS.
-- 🗣️ Hablo **español** (nativo) e **inglés** (nivel básico).
 - 🌐 Portafolio: **[elthiagosm.github.io/portafolio](https://elthiagosm.github.io/portafolio)**
 
 <br>
