@@ -1,4 +1,8 @@
+<br><br>
+
 <h1 align="center">¡Hola! Soy Thiago 👋</h1>
+
+<br><br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
