@@ -1,36 +1,101 @@
-<h1 align="center"><b>Hi , I'm Thiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">¡Hola! Soy Thiago 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Computaci%C3%B3n+%40+Udelar;Curioso+de+nacimiento+%F0%9F%94%8D;Aprendiendo+un+poco+de+todo...;...+y+profundizando+en+lo+que+me+apasiona;Desarrollador+Web+%26+Game+Dev" alt="Typing SVG" />
+  </a>
 </p>
 
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- Front-end developer and designer
-- I'm currently learning web development on my own
-- Currently learning Web Development by Self
-- Link to my personal website [link]([https://www.0xabdulkhalid.ml](https://elthiagosm.github.io/portafolio/))
-- I'm currently a computer science student
-
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elThiagoSM&label=Visitas+al+perfil&color=00D9FF&style=flat" alt="Visitas al perfil"/>
+</p>
+
+<br>
+
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiando la carrera de **Ingeniería en Computación** en la **Udelar** (Uruguay).
+- 📍 De **Salto, Uruguay**.
+- 🌱 No me defino por una sola tecnología o rol: me gusta **aprender de todo** y volverme experto en lo que capta mi atención.
+- 💼 Formo parte de **[pya.uy](https://pya.uy)**, una pequeña empresa de desarrollo web.
+- 🚀 Tengo un par de proyectos personales activos que combinan desarrollo web y SaaS.
+- 🗣️ Hablo **español** (nativo) e **inglés** (nivel básico).
+- 🌐 Portafolio: **[elthiagosm.github.io/portafolio](https://elthiagosm.github.io/portafolio)**
+
+<br>
+
+## 🛠️ Tecnologías
 
 <p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=react,cs,unity,java,php,py,css,html,js,nodejs,mysql,git,github,npm,vscode,bash,linux,ai,ps,figma&perline=12" /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,js,html,css,unity,godot,supabase,figma,photoshop&perline=9" alt="Tecnologías" />
 </p>
+
 <br>
+
+## 🧰 Herramientas que uso
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cursor,git,github,vscode,bash&perline=9" alt="Herramientas" />
+</p>
+
+> Trabajo principalmente con **Cursor** y **OpenCode** como editores, **Git/GitHub** para control de versiones, **Supabase** como backend, y **Photoshop/Figma** para diseño.
+
+<br>
+
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🏢 <a href="https://pya.uy">pya.uy</a></h3>
+      <p>Mini empresa de desarrollo web en la que trabajo.</p>
+    </td>
+    <td width="33%">
+      <h3>🕒 <a href="https://github.com/elThiagoSM/Norkent">Norkent</a></h3>
+      <p>SaaS pensado para registrar la asistencia de empleados.</p>
+      <p><a href="https://norkent.com">🔗 norkent.com</a></p>
+    </td>
+    <td width="33%">
+      <h3>📚 <a href="https://github.com/elThiagoSM/publish-comics">PublishComics</a></h3>
+      <p>Plataforma para que cualquiera pueda compartir sus cómics de forma gratuita.</p>
+      <p><a href="https://publishcomics.online">🔗 publishcomics.online</a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elThiagoSM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elThiagoSM&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elThiagoSM&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+<br>
+
+## 🔗 Contacto y redes
+
+<p align="left">
+  <a href="mailto:thiagosm2019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-thiagosm2019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br>
+  <a href="https://instagram.com/thiagosilveira_1">
+    <img src="https://img.shields.io/badge/Instagram-%40thiagosilveira__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <br>
+  <a href="https://x.com/elThiagoSM">
+    <img src="https://img.shields.io/badge/X-%40elThiagoSM-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>Gracias por pasarte por mi perfil ✨</i>
+</p>
